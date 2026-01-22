@@ -1,6 +1,6 @@
 {
     "schema": "edbb.plugin.v1",
-    "id": "Vanilla",
+    "id": "vanilla",
     "name": "Vanilla",
     "version": "1.0.0",
     "entry": "main.js",
@@ -12,4 +12,5 @@
         "styles": true,
         "data": true
     }
+
 }
